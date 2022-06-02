@@ -12,4 +12,8 @@ Polygon is able to handle a higher transaction count and then it bundles up all 
 ### What is ENS?
 It stands for Ethereum Name Service. They created the ```.eth``` domain.  
 So I'm making a smaller version of ENS on the polygon blockchain: letting you buy a domain NFT and point it to anything you want.  
-It's awesome cause, smart contract makes any data universal as it is stored on blockchain.
+It's awesome cause, smart contract makes any data universal as it is stored on blockchain.  
+
+### Using Hardhat,
+It let us quickly compile smart contracts and test them locally.
+Requirements :: **node/npm**
