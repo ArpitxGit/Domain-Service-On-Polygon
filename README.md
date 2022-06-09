@@ -17,3 +17,10 @@ It's awesome cause, smart contract makes any data universal as it is stored on b
 ### Using Hardhat,
 It let us quickly compile smart contracts and test them locally.
 Requirements :: **node/npm**
+
+Contract deployed to: 0x465E5F0289cDbE02e9B77aa0364762D425e12F68
+Minted domain dungexn.hax
+Set record for dungexn.hax
+Owner of domain dungexn: 0x73E84A73345c2E278E01B81b496C2d3FA0971c1B
+Contract balance: 0.1
+
